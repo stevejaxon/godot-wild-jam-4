@@ -1,5 +1,5 @@
 # Snowman Slushy
-A game created as part of the [Godot Wild Jam 4](https://itch.io/jam/godot-wild-jam-4).
+[Runner-up](https://itch.io/jam/godot-wild-jam-4/results) of the [Godot Wild Jam 4](https://itch.io/jam/godot-wild-jam-4).
 
 ![title screen](docs/title_screen.png)
 
